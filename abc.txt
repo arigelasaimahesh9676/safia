@@ -9,8 +9,3 @@ public class HelloWorld {
 
     this is safia
     this is hasan 
-
-   this two lines will delete
-   -------------------------
-   mahesh 
-   saiid
